@@ -1,0 +1,28 @@
+country,condition,male,female
+Egypt,Hypertension,20.7,43.8
+UAE ,Hypertension,36.8,36.7
+Saudi Arabia ,Hypertension,56.1,53.6
+Tunisia ,Hypertension,51.1,66
+Palestine,Hypertension,52.3,48.3
+Morocco,Hypertension,67.7,76.5
+Lebanon,Hypertension,76,68
+Bahrain ,Obesity,16.0,24.0
+Egypt,Obesity,17.1,37.5
+UAE,Obesity,22.1,33.3
+Lebanon,Obesity,33.4,49.3
+Saudi Arabia ,Obesity,47.9,50.0
+Jordan ,Obesity,42.7,71.9
+Kuwait ,Obesity,42.7,76.5
+Oman,Diabetes,20.2,26.5
+Palestine ,Diabetes,21.7,31.6
+Tunisia ,Diabetes,22.9,25.1
+Lebanon,Diabetes,26.7,29.3
+Iraq,Diabetes,27.3,35.1
+Jordan ,Diabetes,28.2,37.7
+UAE ,Diabetes,36.8,51.2
+UAE,Smoking,0.5,10.2
+Morocco,Smoking,1.4,20.5
+Tunisia,Smoking,3.9,28.4
+Iraq,Smoking,12.3,30.4
+Jordan,Smoking,7.0,35.7
+Lebanon,Smoking,29.6,35.9
